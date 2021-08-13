@@ -85,4 +85,4 @@ async def check_preference(context):
 async def debug(context):
 	await context.message.channel.send(user_preferences.keys())
 	await context.message.channel.send(user_preferences.values())
-bot.run("NzkxOTI0MjgyODYyOTkzNDQ5.X-WO9g.JXZMvhYKdo60DZfcANxktXGSj_4")
+bot.run("")
